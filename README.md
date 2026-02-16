@@ -1,5 +1,7 @@
 # 🛠️ Arch Maintenance Script
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/DaBit-Code/script-mantenimiento-arch?color=blue&logo=github)](https://github.com/DaBit-Code/script-mantenimiento-arch/releases)
+
 Un script ligero, modular y seguro diseñado para automatizar las tareas de mantenimiento esenciales en **Arch Linux**, siguiendo la filosofía KISS.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
