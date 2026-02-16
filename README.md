@@ -1,4 +1,4 @@
-##🛠️ Arch Maintenance Script
+## 🛠️ Arch Maintenance Script
 
 Un script ligero, modular y seguro diseñado para automatizar las tareas de mantenimiento esenciales en **Arch Linux**, siguiendo la filosofía KISS.
 
@@ -24,9 +24,9 @@ El script utiliza herramientas nativas, pero requiere el paquete `pacman-contrib
 sudo pacman -S pacman-contrib
 ```
 
-💻 Instalación y Uso
+## 💻 Instalación y Uso
 
-    Clona el repositorio:
+Clona el repositorio:
     
 ```bash
 git clone [https://github.com/TU_USUARIO/arch-maintenance-script.git](https://github.com/TU_USUARIO/arch-maintenance-script.git)
@@ -45,7 +45,7 @@ Ejecútalo con privilegios de root:
 sudo ./arch-cleaner.sh
 ```
 
-⚠️ Advertencia
+## ⚠️ Advertencia
 
 Aunque este script es seguro, Arch Linux es un sistema centrado en el usuario.
 
@@ -53,6 +53,6 @@ Aunque este script es seguro, Arch Linux es un sistema centrado en el usuario.
 
     Asegúrate de tener una conexión a internet estable antes de iniciar la actualización.
 
-🤝 Contribuir
+## 🤝 Contribuir
 
 ¡Las contribuciones son bienvenidas! Si tienes una idea para mejorar la limpieza o añadir una funcionalidad (como soporte para AUR/Yay), siéntete libre de abrir un Pull Request o un Issue.
