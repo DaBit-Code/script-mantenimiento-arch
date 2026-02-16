@@ -1,5 +1,3 @@
-# 🛠️ Arch Maintenance Script
-
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/DaBit-Code/script-mantenimiento-arch?color=blue&logo=github)](https://github.com/DaBit-Code/script-mantenimiento-arch/releases)
 
 Un script ligero, modular y seguro diseñado para automatizar las tareas de mantenimiento esenciales en **Arch Linux**, siguiendo la filosofía KISS.
@@ -24,23 +22,30 @@ El script utiliza herramientas nativas, pero requiere el paquete `pacman-contrib
 
 ```bash
 sudo pacman -S pacman-contrib
+```
 
-💻 Instalación y Uso
+## 💻 Instalación y Uso
 
-    Clona el repositorio:
+Clona el repositorio:
 
-git clone [https://github.com/TU_USUARIO/arch-maintenance-script.git](https://github.com/TU_USUARIO/arch-maintenance-script.git)
+```bash
+git clone [https://github.com/TU_USUARIO/arch-maintenance-script.git](https://github.com/DaBit-Code/arch-maintenance-script.git)
 cd arch-maintenance-script
+```
 
 Dale permisos de ejecución:
 
+```bash
 chmod +x arch-cleaner.sh
+```
 
 Ejecútalo con privilegios de root:
 
+```bash
 sudo ./arch-cleaner.sh
+```
 
-⚠️ Advertencia
+## ⚠️ Advertencia
 
 Aunque este script es seguro, Arch Linux es un sistema centrado en el usuario.
 
@@ -48,6 +53,6 @@ Aunque este script es seguro, Arch Linux es un sistema centrado en el usuario.
 
     Asegúrate de tener una conexión a internet estable antes de iniciar la actualización.
 
-🤝 Contribuir
+## 🤝 Contribuir
 
 ¡Las contribuciones son bienvenidas! Si tienes una idea para mejorar la limpieza o añadir una funcionalidad (como soporte para AUR/Yay), siéntete libre de abrir un Pull Request o un Issue.
